@@ -1,0 +1,6 @@
+data_venda,produto,categoria,quantidade,preco_unitario
+2023-01-05,Notebook,Eletrônicos,2,3500
+2023-01-10,Mouse,Eletrônicos,5,80
+2023-02-03,Cadeira,Escritório,1,900
+2023-02-15,Teclado,Eletrônicos,3,150
+2023-03-01,Mesa,Escritório,1,1200
